@@ -39,4 +39,4 @@ This project was created as part of a learning experience and may not be activel
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE). Feel free to modify and distribute the code for personal or commercial use.
+This project is open-source and available under the [MIT License](LICENSE.txt). Feel free to modify and distribute the code for personal or commercial use.
