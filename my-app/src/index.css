@@ -1,0 +1,93 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap');
+* {
+  margin: 0;
+  font-family: "League Spartan", sans-serif;
+  color: #080b13 ;
+}
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 1px solid #f2f2f2;
+}
+.navbar h1 {
+  color: #9564bc;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover {
+  color: #9564bc;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.note-preview {
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom: 1px solid #fafafa;
+}
+.note-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0,0,0,0.1);
+}
+h2 {
+  font-size: 20px;
+  color: #9564bc;
+  margin-bottom: 10px;
+}
+.note div {
+  margin: 20px 0;
+}
+.note button {
+  background: #9564bc;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+.column {
+  float: left;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.new {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.new label {
+  text-align: left;
+  display: block;
+}
+
+.new input, .new textarea, .new select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+button {
+  background: #9564bc;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
