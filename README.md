@@ -1,4 +1,4 @@
-# Side Project: Basic Notes App
+# BowNotes: A Basic Notes App
 
 ## Overview
 
